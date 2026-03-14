@@ -26,5 +26,6 @@ It allows basic management of volunteers and events, with authentication and mid
 Jona Ademi  
 Computer Science Graduate  
 Master’s Student in Control Systems and Artificial Intelligence
-  
+
+## 
 <img width="1564" height="818" alt="image" src="https://github.com/user-attachments/assets/061051e0-2306-4228-b2bd-646d53180470" />
